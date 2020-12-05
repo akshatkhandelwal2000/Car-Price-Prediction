@@ -22,4 +22,4 @@ Part-5 Evaluation
 
 ## Notebook
 
-(Car Price Prediction)[Car Price Prediction.ipynb]
+[Car Price Prediction](Car Price Prediction.ipynb)
