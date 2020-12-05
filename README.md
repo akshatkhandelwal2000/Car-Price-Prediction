@@ -22,4 +22,8 @@ Part-5 Evaluation
 
 ## Notebook
 
-[Car Price Prediction](Car Price Prediction.ipynb)
+[Car Price Prediction](https://github.com/akshatkhandelwal2000/Car-Price-Prediction/blob/main/Car%20Price%20Prediction.ipynb)
+
+
+## Author 
+Akshat Khandelwal
